@@ -1,0 +1,41 @@
+div.prod_listing
+		{margin:0;
+		padding: 0px 30px 40px 30px;
+		}
+		
+a:link.prod_listing
+		{text-decoration: none;
+		color: #000;
+		}
+		
+a:visited.prod_listing
+		{color: #4d4d4d;
+		text-decoration: none;
+		}
+
+a:hover.prod_listing
+		{color: #3AA6D0;
+		text-decoration: none;
+		}
+	
+a:active.prod_listing
+		{color: #CCC;
+		text-decoration: none;
+		}
+		
+h3.prod_listing
+		{font-size: 14px;/**/
+		padding: 0px 0px 20px 0px;
+		margin: 0;
+		}
+
+p.prod_listing
+		{margin: 0;
+		
+		}
+		
+img.prod_listing
+		{margin: 0;
+		padding: 0;
+		width: 200px; 
+		}

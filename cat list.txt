@@ -1,0 +1,49 @@
+
+Sports
+	hunting
+	golf
+	diving
+	boating
+	climbing
+	fishing
+
+Kitchen
+	boning
+	bread
+	carver
+	chef
+	cleaver
+	fillet
+	pairing
+	santo
+
+Professional - finder_professional.php
+	gardening - finder_professional_gard.php
+	military - finder_professional_military.php
+	police - finder_professional_police.php
+	rescue - finder_professional_rescue.php
+
+Hobby - finder_hobby.php
+	gardening - finder_hobby_gard.php
+	carving - finder_hobby_carving.php
+	mushroom - finder_hobby_mushroom.php
+
+Every day - finder_general.php
+	general
+		slip
+		lock
+		fixed
+	
+Tactical - finder_tactical.php
+	tactical
+		lock
+		fixed
+	
+Outdoor - finder_outdoor.php
+	hunting - finder_fixed_folding.php?cat=hunting
+	camping - finder_fixed_folding.php?cat=camping
+	gardening - finder_sort.php?sort=folding&cat=gardening
+	survival - finder_fixed_folding.php?cat=survival
+	fishing - finder_fixed_folding.php?cat=fishing
+	
+	finder_fixed_folding.php?cat=gardening

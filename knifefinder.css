@@ -1,0 +1,830 @@
+
+/* CSS Document */
+
+/*Classes*/
+.finder
+	{font-family: "Bell Gothic Std Light", arial, sans-serif;
+	}
+.finder h1
+	{color: #3AA6D0;
+	line-height: 110%;
+	margin: 0;
+	padding: 0 0 20px 40px;
+	}
+.finder h2
+	{color: #3AA6D0;
+	line-height: 120%;
+	border-bottom: 1px solid #485654;
+	width: 500px;
+	margin: 0;
+	padding: 0 0 0 0;
+	}
+.finder p
+	{font-family: arial, sans-serif;
+	font-size: 13px;
+	text-align: justify;
+	margin: 0;
+	padding: 10px 60px 30px 0px;
+	line-height: 110%;
+	}
+.finder img
+	{margin: 0;
+	padding: 0;
+	}
+.finder ul
+	{
+	}
+.finder li
+	{list-style-type: none;
+	margin: 0;
+	padding: 0 0 0 40px;/**/
+	}
+.finder a:link	
+	{color: #3AA6D0;
+	text-decoration: none;
+	}
+.finder a:visited 
+	{color: #3AA6D0;
+	text-decoration: none;
+	}
+.finder a:hover
+	{color: #485654;
+	text-decoration: none;
+	}
+.finder a:active
+	{color: #CCC;
+	text-decoration: none;
+	}
+        
+/*---------------------------------------------------------------------------------------------------------------------------------*/  
+	    
+.help
+	{font-family: "Bell Gothic Std Light", arial, sans-serif;	
+	}
+	
+.help h1
+	{color: #3AA6D0;
+	line-height: 110%;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	}
+	
+.help h2
+	{color: #3AA6D0;
+	line-height: 120%;
+	border-bottom: 1px solid #485654;
+	/*width: 235px;*/
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	}
+	
+.help p
+	{font-family: arial, sans-serif;
+	font-size: 13px;/**/
+	text-align: justify;
+	margin: 0px 0px 0px 0px;
+	padding: 10px 0px 10px 0px;
+	line-height: 110%;
+	}
+	
+.help ul
+	{margin: 0;
+	padding: 0;
+	/*border: 1px solid #000;*/
+	}
+	
+.help li
+	{list-style-type: none;
+	height: 130px;/**/
+	margin: 0px 0px 0px 0px;
+	padding: 0px 40px 0px 40px;/**/
+	/*border: 1px solid #000;*/
+	}
+	
+.help img
+	{margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	}
+	
+.help a:link	
+	{color: #3AA6D0;
+	text-decoration: none;
+	}
+	
+
+.help a:visited 
+	{color: #3AA6D0;
+	text-decoration: none;
+	}
+	
+	
+.help a:hover
+	{color: #485654;
+	text-decoration: none;
+	}
+	
+	
+.help a:active
+	{color: #CCC;
+	text-decoration: none;
+	}
+        
+/*------------------------------------------------------------------------------------------------------------------------------- */
+	    
+.encyc
+	{font-family: "Bell Gothic Std Light", arial, sans-serif;	
+	}
+	
+.encyc h1
+	{color: #3AA6D0;
+	line-height: 110%;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	}
+	
+.encyc h2
+	{color: #3AA6D0;
+	line-height: 120%;
+	border-bottom: 1px solid #485654;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	}
+	
+.encyc p
+	{font-family: arial, sans-serif;
+	font-size: 13px;/**/
+	text-align: justify;
+	margin: 0px 0px 0px 0px;
+	padding: 10px 0px 10px 0px;
+	line-height: 110%;
+	}
+	
+.encyc ul
+	{margin: 0;
+	padding: 0;
+	/*border: 1px solid #000;*/
+	}
+	
+.encyc li
+	{list-style-type: none;
+	height: 130px;/**/
+	margin: 0px 0px 0px 0px;
+	padding: 0px 40px 0px 40px;/**/
+	/*border: 1px solid #000;*/
+	}
+	
+.encyc img
+	{margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	}
+	
+.encyc a:link	
+	{color: #3AA6D0;
+	text-decoration: none;
+	}
+	
+
+.encyc a:visited 
+	{color: #3AA6D0;
+	text-decoration: none;
+	}
+	
+	
+.encyc a:hover
+	{color: #485654;
+	text-decoration: none;
+	}
+	
+	
+.encyc a:active
+	{color: #CCC;
+	text-decoration: none;
+	}
+        
+/*---------------------------------------------------------------------------------------------------------------------------------*/  
+	    
+.catagory
+	{font-family: "Bell Gothic Std Light", arial, sans-serif;	
+	}
+	
+.catagory h1
+	{color: #3AA6D0;
+	line-height: 110%;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	}
+	
+.catagory h2
+	{float: right;
+	color: #3AA6D0;
+	line-height: 120%;
+	border-bottom: 1px solid #485654;
+	width: 170px;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	}
+	
+.catagory img
+	{margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	border: 0;
+	}
+	
+.catagory p
+	{float: left;
+	font-family: arial, sans-serif;
+	font-size: 13px;
+	text-align: justify;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	line-height: 110%;
+	}
+	
+.catagory ul
+	{margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	}
+	
+.catagory li
+	{list-style-type: none;
+	height: 100px;
+	width: 240px;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 30px;
+	}
+	
+.catagory a:link	
+	{color: #3AA6D0;
+	text-decoration: none;
+	}
+
+.catagory a:link	
+	{color: #3AA6D0;
+	text-decoration: none;
+	}
+	
+.catagory a:visited 
+	{color: #3AA6D0;
+	text-decoration: none;
+	}
+	
+.catagory a:hover
+	{color: #485654;
+	text-decoration: none;
+	}
+	
+.catagory a:active
+	{color: #CCC;
+	text-decoration: none;
+	}
+        
+/*---------------------------------------------------------------------------------------------------------------------------------*/  
+	    
+.side_bar
+	{float: left;
+	color: #3AA6D0;
+	font-family: "Bell Gothic Std Light", arial, sans-serif;
+	margin: 30px 0 0 0;
+	padding: 0 0 0 0;
+	width: 170px;
+	/*border-right: #485654 dashed 1px;*/
+	}
+
+.side_bar h3
+	{border-bottom: #485654 solid 1px;
+	font-size: 18px;
+	margin: 0 0 0 16px;
+	padding: 0 0 0 9px;
+	width: 122px;
+	}
+
+.side_bar ul
+	{list-style-type: none;
+	font-size: 15px;
+	padding: 10px 0 10px 24px;
+	margin: 0;
+	}
+	
+.side_bar li
+	{list-style-type: none;
+	}
+	
+.side_bar a:link	
+	{color: #485654;
+	text-decoration: none;
+	}
+	
+.side_bar a:visited 
+	{color: #485654;
+	text-decoration: none;
+	}
+	
+.side_bar a:hover
+	{color: #485654;
+	text-decoration: none;
+	}
+	
+.side_bar a:active
+	{color: #485654;
+	text-decoration: none;
+	}
+	
+/*---------------------------------------------------------------------------------------------------------------------------------*/ 
+
+.anatomy 
+	{margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	/*border: 1px solid #000;*/
+	}
+
+.anatomy p
+	{margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 13px;
+	/*border: 1px solid #000;*/
+	}
+
+.anatomy img
+	{margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	/*border: 1px solid #000;*/
+	}
+	
+/*---------------------------------------------------------------------------------------------------------------------------------*/ 
+
+.help_ticket form	
+	{margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 140px;
+	/*border: 1px solid #000;*/
+	}
+
+.help_ticket fieldset	
+	{width: 340px;
+	margin:  0;
+	padding: 0;
+	border: 1px solid #000;
+	background-color: #f8f8f8;
+	}
+	
+.help_ticket #comments
+	{margin:  16px 0 0 0;
+	}
+	
+.help_ticket legend		
+	{font-weight: bold;
+	}
+	
+.help_ticket label		
+	{display: block;
+	margin: 0 0 0 20px;
+	}
+	
+.help_ticket input		
+	{width: 300px;
+	margin: 0 0 0 20px;
+	padding: 0;
+	}
+	
+.help_ticket #submit
+	{width: 169px;
+	margin: 0;
+	padding: 0;
+	}
+	
+.help_ticket #reset
+	{width: 169px;
+	margin: 0;
+	padding: 0;
+	}
+	
+.help_ticket textarea	
+	{width: 300px;
+	height: 100px;
+	margin: 0 0 0 20px;
+	}	
+	
+/*---------------------------------------------------------------------------------------------------------------------------------*/ 
+
+	.about
+	{margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	font-family: "Bell Gothic Std Light", arial, sans-serif;	
+	}
+
+	.about h1
+	{margin: 0px 0px 0px 50px;
+	padding: 0px 0px 40px 0px;
+	color: #3AA6D0;
+	line-height: 110%;	
+	}
+	
+	.about h2
+	{color: #3AA6D0;
+	line-height: 120%;
+	border-bottom: 1px solid #485654;
+	width: 530px;
+	margin: 0px 0px 0px 50px;
+	padding: 0px 0px 0px 0px;
+		
+	}
+	.about p
+	{font-family: arial, sans-serif;
+	font-size: 13px;
+	text-align: justify;
+	margin: 0px 0px 0px 0px;
+	padding: 10px 50px 0px 50px;
+	/*border: 1px solid #000;*/
+	}
+	
+/*---------------------------------------------------------------------------------------------------------------------------------*/ 
+
+/*Normal Elements*/
+body		
+		{font-size: 16px;
+		line-height: 140%;
+		font-family: arial, sans-serif;
+		color: #000;
+		background-image:url(images/strips_blue.gif);
+		margin: 0;
+		padding: 0;
+		}
+	#container
+		{background-color: #F2F2F2;
+		margin: 0 auto;
+		padding: 0px;
+		width: 800px;
+		/*height: 700px;*/
+		}
+	#branding
+		{margin: 0;
+		padding: 0;	
+		}
+			#branding p
+				{margin: 0;
+				padding: 0;
+				}
+	#nav_main 
+		{height: 25px;	
+		font-size: 15px;/**/
+		font-family: "Bell Gothic Std Light", arial, sans-serif;
+		background-color: #3AA6D0;
+		}
+		#nav_main ul
+			{padding: 2px 0px 0px 5px;
+			margin: 0px;
+			}
+		#nav_main li
+			{
+			display: inline;
+			list-style-type: none;
+			margin: 0;
+			padding: 0 5px 0 5px;
+			}
+		#nav_main a:link	
+			{color: #fff;
+			text-decoration: none;
+			border: 0;
+			}
+		#nav_main a:visited 
+			{color: #fff;
+			text-decoration: none;
+			border: 0;
+			}
+		#nav_main a:hover
+			{color:#C03;
+			text-decoration: none;
+			border: 0;
+			}
+		#nav_main a:active
+			{color: #999;
+			text-decoration: none;
+			border: 0;
+			}
+	#nav_sub
+		{float: left;
+		color: #3AA6D0;
+		font-family: "Bell Gothic Std Light", arial, sans-serif;
+		margin: 30px 0 0 0;
+		padding: 0 0 0 0;
+		width: 170px;
+		/*border-right: #485654 dashed 1px;*/
+		}
+		#nav_sub h3
+			{border-bottom: #485654 solid 1px;
+			font-size: 18px;
+			margin: 0 0 0 16px;
+			padding: 0 0 0 9px;
+			width: 122px;
+			}
+		#nav_sub ul
+			{list-style-type: none;
+			font-size: 15px;
+			padding: 10px 0 10px 24px;
+			margin: 0;
+			}
+		#nav_sub li
+			{list-style-type: none;
+			}
+		#nav_sub a:link	
+			{color: #485654;
+			text-decoration: none;
+			}
+		#nav_sub a:visited 
+			{color: #485654;
+			text-decoration: none;
+			}
+		#nav_sub a:hover
+			{color: #485654;
+			text-decoration: none;
+			}
+		#nav_sub a:active
+			{color: #485654;
+			text-decoration: none;
+			}
+	#content_hm
+		{float: right;
+		width: 628px;
+		margin: 30px 0 0 0;
+		padding: 0 0 0 0;
+		font-family: "Bell Gothic Std Light", arial, sans-serif;
+		border-left: #485654 dashed 1px;
+		/*border: 1px solid #000;*/		
+		}
+		#content_hm img
+			{border: 0;
+			}
+	#content_sup_hm
+		{width: 628px;
+		height: 156px;
+		/*border: 1px solid #000;*/
+		}
+		#welcome_hm
+			{float: left;
+			width: 336px;
+			margin: 0px 0px 0px 0px;
+			padding: 0px;
+			/*border: 1px solid #000;*/
+			}
+			#welcome_hm h1
+				{font-size: 24px;/**/
+				color: #3AA6D0;
+				padding: 0px 0px 10px 30px;
+				margin: 0;
+				}
+			#welcome_hm p
+				{font-size: 12px;
+				font-family: arial, sans-serif;/**/
+				line-height: 110%;
+				text-align: justify;
+				margin: 0;
+				padding: 0px 0px 50px 30px;
+				/*border: 1px solid #000;*/
+				}
+		#featured_hm
+			{float: right;
+			height: 150px;
+			width: 287px;
+			margin: 0px 0px 0px 0px;
+			padding: 0px 0px 0px 0px;
+			/*border: 1px solid #000;*/
+			}
+			#featured_hm p
+				{padding: 20px;
+				border: 1px solid #000;/**/
+				}
+				
+	#content_main_hm
+		{margin: 0 0 0 0;
+		padding: 0 30px 0 30px;
+		}
+		#content_main_hm h2
+			{font-size: 21px;
+			}
+		#content_main_hm a:link	
+			{color: #3AA6D0;
+			text-decoration: none;
+			}	
+		#content_main_hm a:visited 
+			{color:#485654;
+			text-decoration: none;
+			}
+		#content_main_hm a:hover
+			{color:#485654;
+			text-decoration: none;
+			}
+		#content_main_hma:active
+			{color: #485654;
+			text-decoration: none;
+			}
+	#content_left_hm
+		{float: left;
+		/*border: 1px solid #000;*/
+		}
+		#finder_link_hm
+			{height: 66px;
+			margin: 0 0 50px 0;
+			padding: 0;
+			/*border: 1px solid #000;*/
+			}
+			#finder_link_hm p
+				{float: left;
+				margin: 0;
+				padding: 0;
+				/*border: 1px solid #000;*/
+				}	
+			#finder_link_text
+				{float: right;
+				width: 197px;
+				margin: 0;
+				padding: 0;
+				/*border: 1px solid #000;*/
+				}
+				#finder_link_text h2
+					{margin: 0;
+					padding: 0;
+					}
+				#finder_link_text p
+					{margin: 0;
+					padding: 0;
+					font-size: 15px;/**/
+					line-height: 110%;
+					width: 197px;
+					}
+		#encyc_link_hm
+			{
+			height: 66px;
+			margin:  0 0 50px 0;
+			padding: 0;
+			/*border: 1px solid #000;*/
+			}
+			#encyc_link_hm p
+				{float: left;
+				margin: 0;
+				padding: 0;
+				/*border: 1px solid #000;*/
+				}
+			#encyc_link_text
+				{float: right;
+				margin: 0;
+				padding: 0;
+				width: 197px;
+				/*border: 1px solid #000;*/
+				}
+					#encyc_link_text h2
+					{margin: 0;
+					padding: 0;
+					}
+					#encyc_link_text p
+					{margin: 0;
+					padding: 0;
+					font-size: 15px;/**/
+					line-height: 110%;
+					width: 197px;
+					}
+	#content_right_hm
+		{float: right;
+		/*border: 1px solid #000;*/
+		}
+		#forum_link_hm
+			{margin:  0 0 50px 0;
+			padding: 0;
+			height: 66px;
+			/*border: 1px solid #000;*/
+			}
+			#forum_link_text h2
+				{margin: 0;
+				padding: 0;
+				}
+			#forum_link_hm p
+				{float: left;
+				margin: 0;
+				padding: 0;
+				font-size: 15px;/**/
+				/*border: 1px solid #000;*/
+				}
+		#forum_link_text
+			{float: right;
+			width: 197px;
+			margin: 0;
+			padding: 0;
+			/*border: 1px solid #000;*/
+			}
+			#forum_link_text h2
+				{margin: 0;
+				padding: 0;
+				}
+			#forum_link_text p
+				{margin: 0;
+				padding: 0;
+				font-size: 15px;/**/
+				line-height: 110%;
+				width: 197px;
+				}
+		#news_link_hm
+			{margin:  0 0 50px 0;
+			padding: 0;
+			height: 66px;
+			/*border: 1px solid #000;*/
+			}
+			#news_link_text h2
+				{margin: 0;
+				padding: 0;
+				}
+			#news_link_hm p
+				{float: left;
+				margin: 0;
+				padding: 0;
+				font-size: 15px;/**/
+				/*border: 1px solid #000;*/
+				}
+		#news_link_text
+			{float: right;
+			width: 197px;
+			margin: 0;
+			padding: 0;
+			/*border: 1px solid #000;*/
+			}
+			#news_link_text h2
+				{margin: 0;
+				padding: 0;
+				}
+			#news_link_text p
+				{margin: 0;
+				padding: 0;
+				font-size: 15px;/**/
+				line-height: 110%;
+				width: 197px;
+				}
+	#site_info
+		{clear: both;
+		height: 20px;
+		margin: 0;
+		padding: 0;
+		}
+		#site_info p
+			{margin: 0;
+			padding: 0;
+			}
+#content_main
+	{float: right;
+	width: 628px;
+	margin: 30px 0 0 0;/**/
+	padding: 0 0 0 0px;
+	font-family: "Bell Gothic Std Light", arial, sans-serif;
+	/*border: 1px solid #000;*/
+	border-left: #485654 dashed 1px;
+	}			
+#content_left_help
+	{float: left;
+	width: 312px;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	/*border: 1px solid #000;*/
+	}
+	
+#content_right_help
+	{float: right;
+	width: 312px;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	/*border: 1px solid #000;*/	
+	}	
+	
+#content_left_encyc
+	{float: left;
+	width: 312px;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	/*border: 1px solid #000;*/
+	}
+	
+#content_right_encyc
+	{float: right;
+	width: 312px;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	/*border: 1px solid #000;*/	
+	}		
+	
+#content_left_access
+	{float: left;
+	width: 312px;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	/*border: 1px solid #000;*/
+	}
+	
+#content_right_access
+	{float: right;
+	width: 312px;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	/*border: 1px solid #000;*/	
+	}		
+        
+/*---------------------------------------------------------------------------------------------------------------------------------*/  
+	    
+	
+	
+	
+	
+	

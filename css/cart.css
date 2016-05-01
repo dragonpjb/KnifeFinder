@@ -1,0 +1,38 @@
+form
+		{padding: 0px;
+		float:left;
+		}
+#content_main a
+		{padding: 0px;
+		margin: 0;
+		text-decoration: none;
+		}
+		
+#content_main p
+		{margin:0;
+		
+		}
+		
+div.item
+		{margin:0;
+		padding: 0px 0px 20px 30px;
+		}
+		
+#clear 
+		{padding: 0px 0px 0px 30px;
+		}
+
+input
+		{width:50px;
+		text-align: right;
+		}
+		
+p.cart_pict
+		{float: left;
+		padding: 0 10px 0 0;
+		}
+
+p.zap
+		{clear:both;
+		}
+	
